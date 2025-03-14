@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/1.PRJ/AssignmentPRJ/src/java/control/ManagerAccountServlet.java</file>
+            <file>file:/D:/1.PRJ/AssignmentPRJ/src/java/control/UserBillsServlet.java</file>
+            <file>file:/D:/1.PRJ/AssignmentPRJ/src/java/entity/Bill.java</file>
+            <file>file:/D:/1.PRJ/AssignmentPRJ/src/java/context/DBContext.java</file>
+            <file>file:/D:/1.PRJ/AssignmentPRJ/src/java/dao/DAO.java</file>
+            <file>file:/D:/1.PRJ/AssignmentPRJ/web/login.jsp</file>
+            <file>file:/D:/1.PRJ/AssignmentPRJ/web/billSuccess.jsp</file>
+        </group>
+    </open-files>
+</project-private>
